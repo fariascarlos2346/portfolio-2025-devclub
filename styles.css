@@ -189,3 +189,25 @@ footer {
     border-top: 1px solid #222;
     color: #fff;
 }
+
+.efeito-cursor {
+    cursor: pointer;
+    transition: transform 0.4s ease-in-out;
+}
+
+.efeito-cursor:hover {
+    transform: translateY(-10px);
+}
+
+.cursor {
+    pointer-events: none;
+    position: fixed;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    background-color: rgba(77, 124, 254, 0.5);
+    z-index: 99;
+    transform: translate(-50%, -50%);
+}
