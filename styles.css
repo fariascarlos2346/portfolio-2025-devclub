@@ -211,3 +211,35 @@ footer {
     z-index: 99;
     transform: translate(-50%, -50%);
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 20px;
+    }
+
+    ul {
+        gap: 20px;
+        justify-content: flex-start;
+    }
+
+    .principal h1 {
+        font-size:50px;
+    }
+
+    .secao {
+        padding: 60px 20px;
+    }
+
+    .sobre {
+        grid-template-columns: 1fr;
+    }
+
+    .img-sobre {
+        height: auto;
+    }
+}
