@@ -15,7 +15,8 @@ criativas e eficientes para os Usuários. 🎨 </p>
 </ul>
 <br>
 <h2>PROJETOS</h2>
-<h2>Conversor de Moedas</h2>
-<h2>Projeto Buscador de Receitas</h2>
+<a href="https://conversor-moedas-2025.netlify.app/">link projeto</a>
+<h3>Conversor de Moedas</h3>
+<h3>Projeto Buscador de Receitas</h3>
 
                                   
