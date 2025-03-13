@@ -44,7 +44,7 @@ ul {
 }
 
 .principal h1 span {
-    color: #021036;
+    color: #94ad06;
 }
 
 .principal p {
@@ -75,7 +75,7 @@ ul {
     bottom: -15px;
     width: 100px;
     height: 4px;
-    background-color: #4d7cfe;
+    background-color: #4dfe73;
 }
 
 .grade-projetos {
@@ -181,7 +181,7 @@ ul {
 .whatsapp { background-color: #25D366;}
 .email { background-color: #EA4335;}
 .linkedin { background-color: #0077B5;}
-.github { background-color: #333;}
+.github { background-color: #d63b67;}
 
 footer {
     padding: 10px 10%;
@@ -207,7 +207,7 @@ footer {
     border-radius: 50%;
     top: 0;
     left: 0;
-    background-color: rgba(77, 124, 254, 0.5);
+    background-color: rgba(58, 248, 28, 0.5);
     z-index: 99;
     transform: translate(-50%, -50%);
 }
