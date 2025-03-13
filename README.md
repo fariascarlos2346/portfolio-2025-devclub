@@ -1,8 +1,8 @@
 <h1>🚀 PORTFÓLIO - CARLOS HENRIQUE</h1>
 <br>
-<p>Bem-vindos ao meu Portfólio onde você encontrará alguns dos projetos que venho desenvolvendo ao longo destes anos, utilizando
+<p>Bem-vindos ao meu Portfólio onde você encontrará alguns dos projetos que venho desenvolvendo ao longo destes anos de aprendizado, utilizando
 tecnologias modernas e que o mercado de trabalho usa, para criar experiências digitais intuitivas e funcionais. Sou um desenvolvedor
-Full Stack apaixonadopor tecnologia e inovação. Meu foco principal é desenvolver aplicações modernas e responsivas, proporcionando interfaces
+Full Stack apaixonado por tecnologia e inovação. Meu foco principal é desenvolver aplicações modernas e responsivas, proporcionando interfaces
 criativas e eficientes para os Usuários. 🎨 </p>
 <br>
 <h2>🛠️ TECNOLOGIAS UTILIZADAS</h2>
@@ -13,4 +13,11 @@ criativas e eficientes para os Usuários. 🎨 </p>
   <li>Outras Habilidades: UX/UI Design</li>
   <li>Utilização de Bibliotecas e Consumo de APis</li>
 </ul>
+<br>
+<h2>PROJETOS</h2>
+<br>
+<h2>Conversor de Moedas</h2>
+<br>
+<h2>Projeto Buscador de Receitas</h2>
+
                                   
