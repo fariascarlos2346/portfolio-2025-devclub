@@ -15,9 +15,7 @@ criativas e eficientes para os Usuários. 🎨 </p>
 </ul>
 <br>
 <h2>PROJETOS</h2>
-<br>
 <h2>Conversor de Moedas</h2>
-<br>
 <h2>Projeto Buscador de Receitas</h2>
 
                                   
