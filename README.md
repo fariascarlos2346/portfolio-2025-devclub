@@ -20,8 +20,14 @@ criativas e eficientes para os Usuários. 🎨 </p>
 <h3>Projeto Buscador de Receitas (recipe finder)</h3>
 <a href="https://app-buscador-de-receitas.netlify.app/">link do projeto</a>
 <h3>Projeto Clone Tela Login DevClub</h3>
-<a href="">link do projeto</a>
+<a href="https://tela-login-devclub-25.netlify.app/">link do projeto</a>
 <h3>Projeto Cafeteria Dev Carlos</h3>
 <a href="https://cafeteria-dev-carlos.netlify.app/" target="_blanck">link do projeto</a>
+<h3Projeto Back End</h3>
+<a href="https://github.com/fariascarlos2346/devburger-api" target="_blanck">link do projeto</a>
+<h3>Projeto Calculadora</h3>
+<a href="https://calculador2025.netlify.app/" target="_blanck">link do projeto</a>
+<h3>Projeto Previsão do Tempo</h3>
+<a href="https://app-previsao-tempo-25.netlify.app/" target="_blanck">link do projeto</a>
 
                                   
