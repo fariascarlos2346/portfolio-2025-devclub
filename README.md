@@ -15,9 +15,8 @@ criativas e eficientes para os Usuários. 🎨 </p>
 </ul>
 <br>
 <h2>PROJETOS</h2>
-<a href="https://conversor-moedas-2025.netlify.app/">link projeto</a>
 <h3>Conversor de Moedas</h3>
-<a href="https://conversor-moedas-2025.netlify.app/">link do projeto<a/>
+<a href="https://conversor-moedas-2025.netlify.app/" target="_blanck">link do projeto<a/>
 <h3>Projeto Buscador de Receitas (recipe finder)</h3>
 <a href="https://app-buscador-de-receitas.netlify.app/">link do projeto</a>
 <h3>Projeto Clone Tela Login DevClub</h3>
