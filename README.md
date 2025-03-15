@@ -23,6 +23,6 @@ criativas e eficientes para os Usuários. 🎨 </p>
 <h3>Projeto Clone Tela Login DevClub</h3>
 <a href="">link do projeto</a>
 <h3>Projeto Cafeteria Dev Carlos</h3>
-<a href="https://cafeteria-dev-carlos.netlify.app/">link do projeto</a>
+<a href="https://cafeteria-dev-carlos.netlify.app/" target="_blanck">link do projeto</a>
 
                                   
