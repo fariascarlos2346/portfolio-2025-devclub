@@ -28,7 +28,7 @@ criativas e eficientes para os Usuários. 🎨 </p>
 <h3>Projeto Cafeteria Dev Carlos</h3>
 <a href="https://cafeteria-dev-carlos.netlify.app/" target="_blanck">link do projeto</a>
 
-<h3Projeto Back End</h3>
+<h3>Projeto Back End</h3>
 <a href="https://github.com/fariascarlos2346/devburger-api" target="_blanck">link do projeto</a>
 
 <h3>Projeto Calculadora</h3>

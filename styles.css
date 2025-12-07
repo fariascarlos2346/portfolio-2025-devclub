@@ -14,13 +14,17 @@ body {
     padding: 100px 0;
     padding-left: 50px;
 }
-
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px;
     margin-left: 50px;
+}
+
+.fundo-header {
+    background: #0077B5;
+    margin-left:  5px
 }
 
 ul {
