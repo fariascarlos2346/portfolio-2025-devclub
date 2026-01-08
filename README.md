@@ -17,8 +17,7 @@ criativas e eficientes para os Usuários. 🎨 </p>
 <h2>PROJETOS</h2>
 
 <h3>Conversor de Moedas</h3>
-[link do projeto](https://conversor-moedas-2025.netlify.app/)
-//
+<a href="https://conversor-moedas-2025.netlify.app/" target="_blank">link do projeto</a>
 
 
 <h3>Projeto Site Pet Shop</h3>
